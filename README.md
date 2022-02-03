@@ -1,1 +1,1 @@
-# timerapp
+# Simple timer app
